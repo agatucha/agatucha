@@ -1,16 +1,13 @@
-## Hi there 👋
+# ola eu sou agatha !🪸
 
-<!--
-**agatucha/agatucha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-estudante do primeiro ano b do ensino medio
+-colegio professores e edevaldo maria janete carneiro
+-turvo- pr
 
-Here are some ideas to get you started:
+## sobre mim 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-apredendo sobre HTML, CSS e javascripy
+-objetivo: ser uma boa pessoa
+-hobbies: dormi e sair 
+
+![](https://media1.tenor.com/m/pxEHR5NUSHcAAAAC/1.gif)
